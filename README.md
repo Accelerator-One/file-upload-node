@@ -1,4 +1,4 @@
-# File-Upload-Node.js
+# File-Upload-node.js
 A simple Node.js application to upload file content on your cloud Instance
 
 ## Steps:
