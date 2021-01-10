@@ -12,7 +12,7 @@ A simple node server to upload file content on your compute resource.
 - *( Linux only )* Login into your compute instance as shown below:
 ```bash
   ssh -i login-compute.json <user_uid>@<external_ip_addr>
-  # 'user_uid' variable might be something like 'db2_user' (EC2)
+  # 'user_uid' variable might be something like 'ec2_user' (EC2)
   # or something similar to compute instance name.
   # (Depends on your cloud provider, so not sure here)
 ```
